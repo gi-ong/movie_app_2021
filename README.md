@@ -1,6 +1,6 @@
 # Movie App 2021
 
-Reat JS Fundamentals Course (2021 Update!)
+React JS Fundamentals Course (2021 Update!)
 
 <!-- # Getting Started with Create React App
 
