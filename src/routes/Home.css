@@ -27,3 +27,6 @@ body,
   align-items: center;
   font-weight: 300;
 }
+#root {
+  display: flex;
+}
